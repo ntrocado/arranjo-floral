@@ -1,0 +1,2 @@
+Code for the interactive sonic sculpture /Floral Arrangement/ (2023).
+Follow the instructions [[https://nunotrocado.com/software/lisp-and-cl-collider-in-bela.html][here]] to setup Bela with Lisp+SuperCollider and correctly load this script.
